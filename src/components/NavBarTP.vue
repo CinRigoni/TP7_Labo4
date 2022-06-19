@@ -11,6 +11,12 @@
                         <a class="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li class="nav-item">
+                    <a class="nav-link" href="/listaInstrumentos">Grilla Instrumentos</a>
+                    </li>
+                    <li class="nav-item">
+                        <router-link to="/formulario/0" class="nav-link">Formulario</router-link>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/about">About</a>
                     </li>
                     
